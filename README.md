@@ -1,5 +1,5 @@
 # 💫 About Me
-🌑🌒🌓🌔🌕🌖🌗🌘🌑<br>📫 How to reach me 8filipino@gmail.com<br><br>🌱 I am currently learning Next.js & Python thingies<br><br>😍 I am in love with red pandas 🐼🔥<br><br>💚 <a href="https://www.reddit.com/r/TaylorSwiftJets/" style="text-decoration: none ">Taylor Taylor Swift CO2 Production</a><br>🌑🌒🌓🌔🌕🌖🌗🌘🌑
+🌑🌒🌓🌔🌕🌖🌗🌘🌑<br>📫 How to reach me 8filipino@gmail.com<br><br>🌱 I am currently learning C#,jQuery,PostgreSQL,Dart,Flutter,Firebase<br><br>😍 I am in love with red pandas 🐼🔥<br><br>💚 <a href="https://www.reddit.com/r/TaylorSwiftJets/" style="text-decoration: none ">Taylor Taylor Swift CO2 Production</a><br>🌑🌒🌓🌔🌕🌖🌗🌘🌑
 
 
 ## 🌐 Socials
