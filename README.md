@@ -2,7 +2,7 @@
 
 # Ahoj, jsem Filip Éder👋
 
-### Začínající vývojář | Učím se full-stack vývoj
+### Vývojář | Učím se full-stack vývoj
 
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:8filipino@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filip-éder-a846b4310)
