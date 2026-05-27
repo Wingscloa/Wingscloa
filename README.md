@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahoj, jsem Filip 👋
+# Ahoj, jsem Filip Éder👋
 
 ### Začínající vývojář | Učím se full-stack vývoj
 
@@ -15,13 +15,14 @@
 
 ## O mně
 
-- 🌱 Aktuálně se učím **C#**, **JavaScript**, **TypeScript**, **jQuery** a **MSSQL**
-- 💻 Zajímám se o **full-stack vývoj**, **databáze** a **vývoj aplikací**
+- 🌱 Aktuálně se učím a nejvíce pracuji s **C#**, **JavaScriptem**, **TypeScriptem**, **jQuery** a **MSSQL**
+- 💻 Programoval jsem už ve více jazycích; níže uvedený stack ukazuje hlavně technologie, ve kterých teď pracuji nejvíce
+- 🚀 Zajímám se o **full-stack vývoj**, **databáze** a **vývoj aplikací**
 - 📫 Kontaktovat mě můžeš na **8filipino@gmail.com**
 
 ---
 
-## Technologický stack
+## Aktuální technologický stack
 
 ### Jazyky
 
@@ -40,12 +41,15 @@
 
 ---
 
-## Statistiky GitHubu
+## GitHub aktivita
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wingscloa&theme=tokyonight&hide_border=true&show_icons=true" alt="Statistiky GitHubu" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wingscloa&theme=tokyonight" alt="GitHub profilové statistiky" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wingscloa&theme=tokyonight&hide_border=true&layout=compact" alt="Nejpoužívanější jazyky" />
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wingscloa&theme=tokyonight" alt="Repozitáře podle jazyků" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wingscloa&theme=tokyonight" alt="Nejpoužívanější jazyky podle commitů" />
 
 </div>
