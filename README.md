@@ -43,11 +43,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wingscloa&theme=tokyonight" alt="GitHub profilové statistiky" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilipEder&theme=tokyonight" alt="GitHub profilové statistiky" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wingscloa&theme=tokyonight" alt="Repozitáře podle jazyků" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wingscloa&theme=tokyonight" alt="Nejpoužívanější jazyky podle commitů" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilipEder&theme=tokyonight" alt="Repozitáře podle jazyků" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FilipEder&theme=tokyonight" alt="Nejpoužívanější jazyky podle commitů" />
 
 </div>
